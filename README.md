@@ -1,8 +1,8 @@
 # **Hello, I'm Minh Duc**🚀 
 
-🔭 Bachelor's Degree of Computer Science at Ho Chi Minh City University of Technology (HCMUT) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HCMCUT.svg/800px-HCMCUT.svg.png" width="40">, Vietnam.
+🔭 Pursuing Bachelor's Degree of Computer Science at Ho Chi Minh City University of Technology (HCMUT) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HCMCUT.svg/800px-HCMCUT.svg.png" width="40">, Vietnam.
 
-🌱 Currently, I am a Software Engineer, focusing on Backend Engineering.
+🌱 Currently, I am learning and focusing on Backend Engineering.
 
 🕵️ Technology: Golang, Java Spring, Nest, React Native, JavaScript.
 

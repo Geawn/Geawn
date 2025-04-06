@@ -1,6 +1,7 @@
 # **Hello, I'm Minh Duc**🚀 
 
-🔭 Bachelor's Degree of Computer Science at Ho Chi Minh City University of Technology (HCMUT) <img src="https://github.com/user-attachments/assets/5fe7d5ad-4cf5-4897-b458-9385364fd1fa" width="40" />
+🔭 Bachelor's Degree of Computer Science at Ho Chi Minh City University of Technology (HCMUT) <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HCMCUT.svg/800px-HCMCUT.svg.png" width="300">
+" width="40" />
 , Vietnam.
 
 🌱 Currently, I am a Software Engineer, focusing on Backend Engineering.

@@ -6,7 +6,7 @@
 
 🕵️ Technology: Golang, Java Spring, Nest, React Native, JavaScript.
 
-👨‍💻 All of my projects are available at [https://github.com/Geawn](https://github.com/Geawn)
+👨‍💻 All of my projects are available at [https://github.com/Geawn?tab=repositories](https://github.com/Geawn?tab=repositories)
 
 📫 Contact me: **cheducltv2004@gmail.com**<br>
 
